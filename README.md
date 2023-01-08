@@ -24,9 +24,49 @@ From Module 7: Created Tables based on ERD MAP
 
 ### unique_titles 
 
-![D1_11](https://user-images.githubusercontent.com/116187123/211221941-d554ce98-fb60-4b99-895c-44146709ae21.png)
+![D1_11](https://user-images.githubusercontent.com/116187123/211222371-487371e4-8e80-4350-885e-4a50379a4171.png)
+![D1_33](https://user-images.githubusercontent.com/116187123/211222309-07607baa-8835-4a0c-8954-3a44d259fb92.png)
 
-![D1_33](https://user-images.githubusercontent.com/116187123/211221951-235000d8-0f41-49d8-9733-76eabc2dd14e.png)
+### retiring_titles
+
+![D1_4](https://user-images.githubusercontent.com/116187123/211222456-08333e2b-f751-4b8c-83b9-a51972227a2e.png)
+
+# Deliverable 2: 
+
+### mentorship_eligibility
+![D2_2](https://user-images.githubusercontent.com/116187123/211222567-cd3e745f-5447-4e3d-9a5f-dce2b6bef796.png)
+![D2_3](https://user-images.githubusercontent.com/116187123/211222570-8183e42b-0236-4627-9165-310fdd9a71ae.png)
+![D2_1](https://user-images.githubusercontent.com/116187123/211222572-479344ae-fb14-4e5b-9679-82f89b67ec43.png)
+
+
+# Deliverable 3: 
+### Purpose given at top of README 
+### Results
+* From the unique table, it can be concluded that the highest unique title among the retiring employees are Senior Engineers.
+* Additionally, approximately 50% of retiring employees are Engineers  
+* The role with the least employees was the Manager role among the retiring employees. 
+* Even after filtering the dataset, it's more evident that there are some missing values. 
+
+
+### Summary 
+
+
+2. I would say that there are more than enough retiring employees to mentor upcoming employees because in the image shown below: 
+![total employees mentorship](https://user-images.githubusercontent.com/116187123/211223693-7d0ea4bd-ed5b-4263-a377-a2e9efe67200.png)
+It shows that there are 1549 eligible employees, and according to the departments table as shown below: 
+![dept](https://user-images.githubusercontent.com/116187123/211223333-3fc63145-0a86-4cdf-807b-faad37828a83.png)
+there are a total of 9 departments. 
+If you divide 1549/9, you get approximately 172 mentors per department. I think that one of the major disadvantages to this, is that we won't know for 
+sure on whether or not retiring employees would choose to articipate in the mentorship program, so that could possibly lessen the number of mentors per department, 
+and that could be tricky because it depends on the number of new employees and their hire dates. 
+
+
+
+
+
+
+
+
 
 
 
